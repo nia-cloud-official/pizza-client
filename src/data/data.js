@@ -2,7 +2,7 @@ const data = [
     {
         id: 1,
         title: "Dashboard Design for Task Manager App",
-        desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+        desc: "BLUH BLUH BLUH. ",
         tags: ["React", "Node", "MongoDB"],
         time: "2 days ago",
         status: "Working",
@@ -16,7 +16,7 @@ const data = [
     {
         id: 2,
         title: "Project 2",
-        desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+        desc: "BLUH BLUH BLUH. BLUH BLUH BLUH.BLUH BLUH BLUH. ",
         tags: ["React", "Node", "MongoDB"],
         time: "2 days ago",
         status: "In Progress",
@@ -30,7 +30,7 @@ const data = [
     {
         id: 3,
         title: "Project 1",
-        desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+        desc: "BLUH BLUH BLUH. BLUH BLUH BLUH. ",
         tags: ["Android", "MERN", "MongoDB"],
         time: "2 days ago",
         status: "In Progress",
@@ -44,7 +44,7 @@ const data = [
     {
         id: 4,
         title: "Project 1",
-        desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+        desc: "BLUH BLUH BLUH. ",
         tags: ["React", "Node", "MongoDB"],
         time: "2 days ago",
         status: "Completed",
@@ -58,7 +58,7 @@ const data = [
     {
         id: 5,
         title: "Project 2",
-        desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+        desc: "BLUH BLUH BLUH. ",
         tags: ["React", "Node", "MongoDB"],
         time: "2 days ago",
         status: "Completed",
@@ -72,7 +72,7 @@ const data = [
     {
         id: 6,
         title: "Project 3",
-        desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+        desc: "BLUH BLUH BLUH. ",
         tags: ["React", "Node", "MongoDB"],
         time: "2 days ago",
         status: "Completed",
@@ -147,22 +147,22 @@ const tools = [
 
 const members = [
     {
-        name: "John Abharim",
-        email: "john123@gmail.com",
+        name: "Milton Vafana",
+        email: "miltonhyndrex@gmail.com",
         role: "Manager",
         access: "Owner",
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUB8kqGZ74kvQczb_fL00a6LecB331zRp5SQ&usqp=CAU",
     },
     {
-        name: "John Abharim",
-        email: "john123@gmail.com",
+        name: "Milton Vafana",
+        email: "miltonhyndrex@gmail.com",
         role: "Developer",
         access: "Editor",
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUB8kqGZ74kvQczb_fL00a6LecB331zRp5SQ&usqp=CAU",
     },
     {
-        name: "John Abharim",
-        email: "john123@gmail.com",
+        name: "Milton Vafana",
+        email: "miltonhyndrex@gmail.com",
         role: "Designer",
         access: "View Only",
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUB8kqGZ74kvQczb_fL00a6LecB331zRp5SQ&usqp=CAU",
@@ -170,10 +170,10 @@ const members = [
 ]
 
 const ideas = [
-    "Lorem ipsum dolor sit amet, adipiscing elit. ",
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+    "Add apples. ",
+    "BLUH BLUH BLUH. ",
+    "BLUH BLUH BLUH. ",
+    "BLUH BLUH BLUH. ",
 ]
 
 
