@@ -6,7 +6,7 @@ import jwt_decode from 'jwt-decode';
 //https://project-management-app-production-3d51.up.railway.app/api/
 //http://localhost:8700/api/
 //https://timmy.onrender.com/
-const API = axios.create({ baseURL: `https://timmy.onrender.com/api/` }); 
+const API = axios.create({ baseURL: `https://pizza-server-hygc.onrender.com/api/` }); 
 
 
 
